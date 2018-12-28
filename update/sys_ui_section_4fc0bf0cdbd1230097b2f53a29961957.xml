@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="4fc0bf0cdbd1230097b2f53a29961957" sys_domain="global" table="x_280840_marketing_equipment_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 15:28:59</sys_created_on>
+            <sys_id>ec517f40db15230097b2f53a29961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_280840_marketing_equipment_request" sys_domain="global" view="Default view">4fc0bf0cdbd1230097b2f53a29961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 15:28:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 15:28:59</sys_created_on>
+            <sys_id>60517f40db15230097b2f53a29961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_280840_marketing_equipment_request" sys_domain="global" view="Default view">4fc0bf0cdbd1230097b2f53a29961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 15:28:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>marketing_event</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 15:28:59</sys_created_on>
+            <sys_id>e0517f40db15230097b2f53a29961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_280840_marketing_equipment_request" sys_domain="global" view="Default view">4fc0bf0cdbd1230097b2f53a29961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 15:28:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 15:28:59</sys_created_on>
+            <sys_id>64517f40db15230097b2f53a29961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_280840_marketing_equipment_request" sys_domain="global" view="Default view">4fc0bf0cdbd1230097b2f53a29961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 15:28:59</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>needed_from</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 15:28:59</sys_created_on>
+            <sys_id>e4517f40db15230097b2f53a29961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_280840_marketing_equipment_request" sys_domain="global" view="Default view">4fc0bf0cdbd1230097b2f53a29961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 15:28:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>needed_until</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 15:28:59</sys_created_on>
+            <sys_id>68517f40db15230097b2f53a29961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_280840_marketing_equipment_request" sys_domain="global" view="Default view">4fc0bf0cdbd1230097b2f53a29961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 15:28:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 15:28:59</sys_created_on>
+            <sys_id>e8517f40db15230097b2f53a29961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_280840_marketing_equipment_request" sys_domain="global" view="Default view">4fc0bf0cdbd1230097b2f53a29961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 15:28:59</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 15:28:59</sys_created_on>
+            <sys_id>6c517f40db15230097b2f53a29961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_280840_marketing_equipment_request" sys_domain="global" view="Default view">4fc0bf0cdbd1230097b2f53a29961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 15:28:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_280840_marketing_equipment_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 15:26:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4fc0bf0cdbd1230097b2f53a29961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_280840_marketing_equipment_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Marketing Events" source="x_280840_marketing">22c813c8db91230097b2f53a29961936</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Events">22c813c8db91230097b2f53a29961936</sys_scope>
+            <sys_update_name>sys_ui_section_4fc0bf0cdbd1230097b2f53a29961957</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 15:26:41</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

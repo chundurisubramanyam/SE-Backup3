@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number_of_attendees_expected" label="Number of attendees expected" language="en" table="x_280840_marketing_event">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number_of_attendees_expected</element>
+            <help/>
+            <hint/>
+            <label>Number of attendees expected</label>
+            <language>en</language>
+            <name>x_280840_marketing_event</name>
+            <plural>Number of attendees expected</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-18 09:03:48</sys_created_on>
+            <sys_id>c4c22b94db1d230097b2f53a2996194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number of attendees expected</sys_name>
+            <sys_package display_value="Marketing Events" source="x_280840_marketing">22c813c8db91230097b2f53a29961936</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Events">22c813c8db91230097b2f53a29961936</sys_scope>
+            <sys_update_name>sys_documentation_x_280840_marketing_event_number_of_attendees_expected_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-18 09:03:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

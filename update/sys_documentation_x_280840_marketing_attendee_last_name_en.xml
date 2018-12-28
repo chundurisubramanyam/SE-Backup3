@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="last_name" label="Last name" language="en" table="x_280840_marketing_attendee">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <help/>
+            <hint/>
+            <label>Last name</label>
+            <language>en</language>
+            <name>x_280840_marketing_attendee</name>
+            <plural>Last names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-18 09:01:41</sys_created_on>
+            <sys_id>4142e394db1d230097b2f53a29961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Last name</sys_name>
+            <sys_package display_value="Marketing Events" source="x_280840_marketing">22c813c8db91230097b2f53a29961936</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Events">22c813c8db91230097b2f53a29961936</sys_scope>
+            <sys_update_name>sys_documentation_x_280840_marketing_attendee_last_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-18 09:01:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
